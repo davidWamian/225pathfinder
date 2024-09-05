@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spatie/laravel-sitemap": "^7.0",
+        "botman/botman": "^2.8",
+        "botman/driver-web": "^1.5"
+    }
+}
